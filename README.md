@@ -5,7 +5,7 @@ Institución: Instituto Tecnológico de Las Américas (ITLA)
 Proyecto: Implementación de una infraestructura de red segura mediante FortiGate, segmentación VLAN y DMZ.
 
 🎥 Video demostrativo
-Enlace del video: Ver demostración
+Enlace del video: https://itlaedudo-my.sharepoint.com/:f:/g/personal/20240860_itla_edu_do/IgDexxIoVrNRTbrxP3nCaSg_AaQo0u4BdniJOsMH4OX0B9M?e=56rl2O
 
 El video presenta la topología, las configuraciones de seguridad y las pruebas realizadas para verificar el cumplimiento de los objetivos del laboratorio.
 
